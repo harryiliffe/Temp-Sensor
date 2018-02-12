@@ -6,7 +6,7 @@ A temperature and humidity sensor with io.adafruit.com integration
 
 1. Plug in usb to power. After plugging it in it should start blinking orange.
 
-2. On your phone/computer, connect to **TemperatureSetupWifi**. 
+2. On your phone/computer, connect to the wifi network: **TemperatureSetupWifi**. 
   A website should automatically popup.
   If nothing pops up. Open a web browser and in the search bar type http://192.168.4.1/
 
