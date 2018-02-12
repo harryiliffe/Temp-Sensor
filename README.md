@@ -20,6 +20,7 @@ A temperature and humidity sensor with io.adafruit.com integration
 Below is a table showing the different LED states, there meaning and solution.
 
 LED Colour | Meaning | Solution
+--- | --- | ---
 Solid Green | Everything is working | n/a
 Flashing Orange | Wifi connection mode | Refer to **Setting Up**
 Flashing Red | Broken Connection | Unplug and replug the device from the wall. If this error persists call the email iliffe.harry@gmail.com or contact the phone number on the bottom of the box
