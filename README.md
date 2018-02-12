@@ -23,5 +23,5 @@ LED Colour | Meaning | Solution
 --- | --- | ---
 Solid Green | Everything is working | n/a
 Flashing Orange | Wifi connection mode | Refer to **Setting Up**
-Flashing Red | Broken Connection | Unplug and replug the device from the wall. If this error persists call the email iliffe.harry@gmail.com or contact the phone number on the bottom of the box
+Flashing Red | Broken Connection | Unplug and replug the device from the wall. If this error persists, email iliffe.harry@gmail.com or contact the phone number on the bottom of the box
 Solid Orange | Broken Wifi Connection | The device will reset on its own and begin the setup process. Refer to Setting Up.
